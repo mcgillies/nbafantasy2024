@@ -103,7 +103,14 @@ For only top 25% of per minute fantasy producers.
 - Fantasy points per game still relies heavily on volume stats and assists.
 - Also had a strong correlation with steals:
     - Steals seem to also be somewhat of a volume stat. 
-    - Larger correlations between steals and pts/ast/fg etc. Scatter also shows this. 
+    - Larger correlations between steals and pts/ast/fg etc. Scatter also shows this.
+- Rebounds have limited correlation - seems to only be very positive when in extremely large volume. 
+- Free throws also have a strong correlation - once again comes with volume scorers. 
+- Blocks have a significantly lower correlation among the top 25% of FANTASY POINTS PER MINUTE than the entire player pool. 
+    - Why? Because lots of the top fantasy producers per minute rely on blocks. So there are players like Wemby who thrive in 
+        fantasy with high blocks, but there are also players like Bol Bol. 
+- HOWEVER: this trend holds for the top 25% of FANTASY POINTS PER GAME. 
+    - Similar reasoning to presented before. Players buoy their value enough with blocks to make them useful, but often lack in  the surrounding stats
 Players with high steals are either high volume players or defensive specialists - which usually have limited fantasy value due to the low offensive ceilings. The high volume players usually provide value in may other categories as well. 
 E.g. From the top 20 in steals/game:
 - Fox 
@@ -119,6 +126,9 @@ E.g. From the top 20 in steals/game:
 - Herb
 
 TAKEAWAY: DO NOT draft a player because of steals besides maybe a few exceptions. They will come for players more involved anyways. Possible exceptions for this year could be: Dyson Daniels, Deanthony Melton. But this is also because they have a possibility of an expanded role and increase in other stats as well. 
+
+
+OVERALL: Volume is king of course. However volume paired with another elite stat(s) (specfically AST/BLK) is what makes the best of the best. The best upside plays are players who fit this mold - however that often comes at a risk. Steals and rebounds are middling with value, as rebounds are valued minimally (1pt per) and steals are variable game to game and volume based. Be wary of overvaluing blocks on their own - this can lead to drafting one-dimensional bigs with no upside. 
 
     
   
