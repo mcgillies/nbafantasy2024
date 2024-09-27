@@ -1,6 +1,6 @@
 # Notes:
 
-#### Non-fantasy related
+## Non-fantasy related
 - Donte Divincenzo -> elite roleplayer? 90th percentile VORP but by far lowest stat producer. 
 - Vanvleet is also sick in terms of VORP
 - Jarrett Allen? 90th percentile in both VORP and WS/48. 
@@ -21,7 +21,7 @@ Players 90th quantile in VORP, WS/48, BPM:
 - Jimmy
 
 
-### Fantasy related:
+## Fantasy related:
 - Jimmy? seems fishy with low fpoints per minute (73rd) and lack of availability. 
 - BPM/VORP most correlated to fantasy points of advanced stats.
 
@@ -81,6 +81,47 @@ Notes on usage (high usage guys):
 Low usage guys:
 - Podz only 15% usage rate. Like this to increase this year with the loss of klay and his development (Kerr loves him)
 - Lots of centers/role players. To be honest not much in terms of possible increases near the bottom. 
+
+
+### Relation of Advanced Stats: 
+
+- BPM is the most correlated - both from correlation exercise and feature importances of rf model. 
+- VORP follows in second, then pretty steep dropoff
+- Not sure how much this can actually help as these stats essentially model overall goodness of a player. 
+
+#### BPM Vs Fantasy points per minute:
+- Players with inflated BPM: mostly defensive guys. eg Jrue, Derrick White, Caruso
+- Vice versa for deflated BPM: offensive reliant or stat merchants: Trae, Bobby Portis, Brandon Miller. 
+
+
+#### Looking at default stats (PTS, AST, REB, BLK, STL, 3P, FG%, FT%, TO):
+- Distributions of BLK/AST have longer/lower right tails - can get a leg up here. (eg. Wemby/Hali). 
+- Largest correlations to fpoints come from scoring volume (PTS, FGA, FTA), and AST. 
+
+For only top 25% of per minute fantasy producers. 
+
+- Fantasy points per game still relies heavily on volume stats and assists.
+- Also had a strong correlation with steals:
+    - Steals seem to also be somewhat of a volume stat. 
+    - Larger correlations between steals and pts/ast/fg etc. Scatter also shows this. 
+Players with high steals are either high volume players or defensive specialists - which usually have limited fantasy value due to the low offensive ceilings. The high volume players usually provide value in may other categories as well. 
+E.g. From the top 20 in steals/game:
+- Fox 
+- Shai 
+- Dmitch 
+- Caruso
+- Thybulle
+- Kawhi
+- PG
+- Luka
+- Jokic
+- Dyson Daniels
+- Herb
+
+TAKEAWAY: DO NOT draft a player because of steals besides maybe a few exceptions. They will come for players more involved anyways. Possible exceptions for this year could be: Dyson Daniels, Deanthony Melton. But this is also because they have a possibility of an expanded role and increase in other stats as well. 
+
+    
+  
 
 
 
