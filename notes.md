@@ -132,9 +132,7 @@ E.g. From the top 20 in steals/game:
 TAKEAWAY: DO NOT draft a player because of steals besides maybe a few exceptions. They will come for players more involved anyways. Possible exceptions for this year could be: Dyson Daniels, Deanthony Melton. But this is also because they have a possibility of an expanded role and increase in other stats as well. 
 
 
-Fantasy Points per game is very right-skewed. Picking the right top tier players is key. 
-
-Here is the plot I generated:
+Fantasy Points per game is very right-skewed. Picking the right top tier players is key. Points per minute not as much. 
 
 ![FPPM](plots/fppmz_hist.png)
 ![FPPG](plots/fppgz_hist.png)
