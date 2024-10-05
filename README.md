@@ -3,4 +3,4 @@ Includes the exploration of per 36 minute stats and advanced stats. For ESPN H2H
 
 See [here](notes.md) for notes so far.
 
-Stay tuned for Rankings
+Stay tuned for complete rankings - incomplete rankings [here](data/rankings_no_progression.csv)
