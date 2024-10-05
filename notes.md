@@ -1,5 +1,9 @@
 # Notes:
 
+## Pre-season
+- Walker Kessler starting over Collins
+- Keyonte large role
+
 ## Non-fantasy related
 - Donte Divincenzo -> elite roleplayer? 90th percentile VORP but by far lowest stat producer. 
 - Vanvleet is also sick in terms of VORP
@@ -126,6 +130,14 @@ E.g. From the top 20 in steals/game:
 - Herb
 
 TAKEAWAY: DO NOT draft a player because of steals besides maybe a few exceptions. They will come for players more involved anyways. Possible exceptions for this year could be: Dyson Daniels, Deanthony Melton. But this is also because they have a possibility of an expanded role and increase in other stats as well. 
+
+
+Fantasy Points per game is very right-skewed. Picking the right top tier players is key. 
+
+Here is the plot I generated:
+
+![FPPM](plots/fppmz_hist.png)
+![FPPG](plots/fppmg_hist.png)
 
 
 OVERALL: Volume is king of course. However volume paired with another elite stat(s) (specfically AST/BLK) is what makes the best of the best. The best upside plays are players who fit this mold - however that often comes at a risk. Steals and rebounds are middling with value, as rebounds are valued minimally (1pt per) and steals are variable game to game and volume based. Be wary of overvaluing blocks on their own - this can lead to drafting one-dimensional bigs with no upside. 

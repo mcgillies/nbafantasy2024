@@ -1,0 +1,165 @@
+Number,Name,Team,Position
+1,Nikola Jokic,DEN,C1
+2,Luka Doncic,DAL,PG1
+3,Shai Gilgeous-Alexander,OKC,PG2
+4,Victor Wembanyama,SA,C2
+5,Giannis Antetokounmpo,MIL,PF1 & C
+6,Domantas Sabonis,SAC,C3 & PF
+7,Tyrese Haliburton,IND,PG3 & SG
+8,Joel Embiid,PHI,C4
+9,Jayson Tatum,BOS,PF2 & SF
+10,Anthony Edwards,MIN,SG1 & SF
+11,Anthony Davis,LAL,C5 & PF
+12,Jalen Brunson,NY,PG4
+13,Ja Morant,MEM,PG5
+14,Donovan Mitchell,CLE,SG2 & PG
+15,LeBron James,LAL,SF1 & PF
+16,Trae Young,ATL,PG6
+17,De'Aaron Fox,SAC,PG7
+18,Devin Booker,PHX,PG8 & SG
+19,Scottie Barnes,TOR,SF2 & SG
+20,Pascal Siakam,IND,PF3
+21,Kevin Durant,PHX,PF4
+22,Karl-Anthony Towns,MIN*,C6 & PF
+23,Tyrese Maxey,PHI,PG9 & SG
+24,Damian Lillard,MIL,PG10
+25,Alperen Sengun,HOU,C7
+26,James Harden,LAC,PG11 & SG
+27,LaMelo Ball,CHA,PG12
+28,Cade Cunningham,DET,PG13 & SG
+29,DeMar DeRozan,SAC,SF3 & PF
+30,Paolo Banchero,ORL,PF5 & SF
+31,Nikola Vucevic,CHI,C8
+32,Chet Holmgren,OKC,C9
+33,Dejounte Murray,NO,SG3 & PG
+34,Bam Adebayo,MIA,C10
+35,Jalen Green,HOU,SG4
+36,Kyrie Irving,DAL,PG14 & SG
+37,Stephen Curry,GS,PG15
+38,Zion Williamson,NO,PF6
+39,Jaylen Brown,BOS,SF4 & SG
+40,Desmond Bane,MEM,SG5 & SF
+41,Lauri Markkanen,UTAH,PF7 & SF
+42,Jalen Williams,OKC,PF8
+43,Kawhi Leonard,LAC,SF5 & PF
+44,Jamal Murray,DEN,PG16
+45,Coby White,CHI,PG17 & SG
+46,Rudy Gobert,MIN,C11
+47,Mikal Bridges,NY,SF6 & SG
+48,Miles Bridges,CHA,SF7 & PF
+49,Julius Randle,NY*,PF9
+50,D'Angelo Russell,LAL,PG18 & SG
+51,Jalen Johnson,ATL,PF10
+52,Paul George,PHI,SF8 & PF
+53,Jonas Valanciunas,WSH,C12
+54,Immanuel Quickley,TOR,PG19 & SG
+55,Myles Turner,IND,C13
+56,Franz Wagner,ORL,SF9 & PF
+57,Kyle Kuzma,WSH,PF11 & SF
+58,Nic Claxton,BKN,C14
+59,Fred VanVleet,HOU,PG20
+60,Jarrett Allen,CLE,C15
+61,Anfernee Simons,POR,SG6 & PG
+62,Jimmy Butler,MIA,SF10 & SG
+63,Cam Thomas,BKN,SG7
+64,Evan Mobley,CLE,PF12 & C
+65,Darius Garland,CLE,PG21
+66,Daniel Gafford,DAL,C16
+67,Jrue Holiday,BOS,PG22 & SG
+68,Derrick White,BOS,SG8 & PG
+69,Austin Reaves,LAL,SG9 & SF
+70,CJ McCollum,NO,SG10 & PG
+71,Jaren Jackson Jr.,MEM,C17 & PF
+72,Zach LaVine,CHI,SG11 & SF
+73,Devin Vassell,SA,SG12 & SF
+74,Brandon Miller,CHA,SF11 & SG
+75,Brandon Ingram,NO,SF12
+76,Josh Giddey,CHI,SG13 & SF
+77,Buddy Hield,GS,SG14 & SF
+78,Michael Porter Jr.,DEN,SF13
+79,Jalen Duren,DET,C18
+80,Kristaps Porzingis,BOS,C19 & PF
+81,Bradley Beal,PHX,SF14 & SG
+82,Collin Sexton,UTAH,SG15 & PG
+83,Tyler Herro,MIA,SG16 & PG
+84,Tobias Harris,DET,PF13 & SF
+85,Terry Rozier,MIA,PG23 & SG
+86,Bogdan Bogdanovic,ATL,SG17 & SF
+87,Klay Thompson,DAL,SG18 & SF
+88,Russell Westbrook,DEN,PG24
+89,Grayson Allen,PHX,SG19 & PG
+90,Amen Thompson,HOU,SF15 & PF
+91,Jusuf Nurkic,PHX,C20
+92,Trayce Jackson-Davis,GS,PF14 & C
+93,Keegan Murray,SAC,PF15 & SF
+94,Isaiah Hartenstein,OKC,C21
+95,Josh Hart,NY,SF16 & SG
+96,Brook Lopez,MIL,C22
+97,Mark Williams,CHA,C23
+98,RJ Barrett,TOR,SF17 & SG
+99,Bobby Portis,MIL,PF16
+100,Clint Capela,ATL,C24
+101,Jakob Poeltl,TOR,C25
+102,Jaime Jaquez Jr.,MIA,SF18 & SG
+103,Jonathan Kuminga,GS,PF17
+104,Malcolm Brogdon,WSH,PG25 & SG
+105,Aaron Gordon,DEN,PF18
+106,Deni Avdija,POR,SF19 & PF
+107,Naz Reid,MIN,C26 & PF
+108,Dennis Schroder,BKN,PG26
+109,Jabari Smith Jr.,HOU,PF19 & C
+110,P.J. Washington,DAL,PF20
+111,Tyus Jones,PHX,PG27
+112,Donte DiVincenzo,NY*,SG20
+113,Reed Sheppard,HOU,SG21
+114,Walker Kessler,UTAH,C27
+115,Caris LeVert,CLE,SG22 & SF
+116,Mike Conley,MIN,PG28
+117,Jaden Ivey,DET,SG23
+118,John Collins,UTAH,PF21
+119,Jordan Poole,WSH,SG24 & PG
+120,Khris Middleton,MIL,SF20
+121,Jerami Grant,POR,PF22
+122,Brandin Podziemski,GS,SG25
+123,Deandre Ayton,POR,C28
+124,Ausar Thompson,DET,SF21 & PF
+125,Zach Edey,MEM,C29
+126,Draymond Green,GS,PF23 & C
+127,Stephon Castle,SA,PG29
+128,Ayo Dosunmu,CHI,SG26
+129,OG Anunoby,NY,SF22 & PF
+130,Malik Monk,SAC,SG27 & SF
+131,Ivica Zubac,LAC,C30
+132,Keldon Johnson,SA,SF23
+133,Donovan Clingan,POR,C31
+134,Kelly Oubre Jr.,PHI,SF24 & SG
+135,Herbert Jones,NO,SF25 & PF
+136,Dereck Lively II,DAL,C32
+137,Kelly Olynyk,TOR,C33 & PF
+138,Cameron Johnson,BKN,SF26 & PF
+139,Scoot Henderson,POR,PG30
+140,Jeremy Sochan,SA,PF24
+141,Trey Murphy III,NO,SF27 & SG
+142,Andre Drummond,PHI,C34
+143,Max Strus,CLE,SF28 & SG
+144,Onyeka Okongwu,ATL,C35
+145,Chris Paul,SA,PG31
+146,Tre Jones,SA,PG32
+147,Shaedon Sharpe,POR,SG28 & SF
+148,Jalen Suggs,ORL,PG33 & SG
+149,Jordan Clarkson,UTAH,SG29
+150,Harrison Barnes,SA,PF25
+137,Kelly Olynyk,TOR,C33 & PF
+138,Cameron Johnson,BKN,SF26 & PF
+139,Scoot Henderson,POR,PG30
+140,Jeremy Sochan,SA,PF24
+141,Trey Murphy III,NO,SF27 & SG
+142,Andre Drummond,PHI,C34
+143,Max Strus,CLE,SF28 & SG
+144,Onyeka Okongwu,ATL,C35
+145,Chris Paul,SA,PG31
+146,Tre Jones,SA,PG32
+147,Shaedon Sharpe,POR,SG28 & SF
+148,Jalen Suggs,ORL,PG33 & SG
+149,Jordan Clarkson,UTAH,SG29
+150,Harrison Barnes,SA,PF25
