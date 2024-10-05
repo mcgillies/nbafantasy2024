@@ -137,7 +137,7 @@ Fantasy Points per game is very right-skewed. Picking the right top tier players
 Here is the plot I generated:
 
 ![FPPM](plots/fppmz_hist.png)
-![FPPG](plots/fppmg_hist.png)
+![FPPG](plots/fppgz_hist.png)
 
 
 OVERALL: Volume is king of course. However volume paired with another elite stat(s) (specfically AST/BLK) is what makes the best of the best. The best upside plays are players who fit this mold - however that often comes at a risk. Steals and rebounds are middling with value, as rebounds are valued minimally (1pt per) and steals are variable game to game and volume based. Be wary of overvaluing blocks on their own - this can lead to drafting one-dimensional bigs with no upside. 
