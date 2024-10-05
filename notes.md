@@ -43,7 +43,7 @@ Players who posted elite per minute fantasy numbers but have limited role (with 
 
 Do any of these players have a path to a larger role this season? Would look into TJD & keep an eye on Sharpe. Otherwise not really. 
 
-Same thing - but min 25 MPG and 35 GP:
+Same thing - but min 25 MPG and 35 GP (permin rank and pergame rank):
 
 - Josh Giddey (52 107)
 - Jusuf Nurkic (29 71)
@@ -59,6 +59,7 @@ Same thing - but min 25 MPG and 35 GP:
 Lots of bigs as they rack up rebounds and defensive stats in less play time. Once again this is role-dependent but I could see an increase for Chet and Mobley this year. Porzingis is appealing but the injury risk is ridiculous. Nurkic and Myles Turner could be good picks. Guards in these rankings could be very appealing given a bigger role (Sexton and Giddey). Most of these are upside swings. 
 
 Opposite - players who rely on large workload (still min 25 MPG and 35 GP):
+(permin rank pergame rank)
 - Coby White (118 69)
 - Miles Bridges (98 55)
 - Mikal Bridges (113 72)
@@ -79,7 +80,7 @@ Notes on usage (high usage guys):
 - Cam Thomas 30.5% usage. This if anything will go up this year. Just absolutely useless in every other category. 
 - JJJ had 30% usage last year. Will cause significant decrease (LOOK INTO THIS). 
 - Bane also had high usage - but he thrives as lower usage player as well so this may be okay. 
-- Randle and Brunson both ~> 30% usage. Would avoid all other Knicks. 
+- Randle and Brunson both ~> 30% usage. Would avoid all other Knicks. (TRADE BROKE THIS). 
 - Scoot had 
 
 Low usage guys:
