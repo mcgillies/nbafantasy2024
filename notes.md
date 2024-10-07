@@ -4,6 +4,14 @@
 - Walker Kessler starting over Collins
 - Keyonte large role
 - Randle to start "on merit"... questionable on role there. Naz up. 
+- TJD starting with decent minutes?
+- Melton starting over Podz/Hield
+- Kris Dunn over KPJ/Mann starting
+- Kobe Brown will have role
+- Josh Green at SF
+- Sarr starting... looks good
+- Poole PG
+
 
 ## Non-fantasy related
 - Donte Divincenzo -> elite roleplayer? 90th percentile VORP but by far lowest stat producer. 
