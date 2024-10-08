@@ -10,8 +10,11 @@
 - Kobe Brown will have role
 - Josh Green at SF
 - Sarr starting... looks good
-- Poole PG
-
+- Poole PG (will it stick or brogdon takes it)
+- Billups quote: "Avdija is the best player on our team". With sharpe out too stock up
+- Edey starting (eh low minutes likely)
+- Daniel Theis starting for new orleans (eh)
+- Amen starts at SF (no Dillon Brooks). Should be 6th man
 
 ## Non-fantasy related
 - Donte Divincenzo -> elite roleplayer? 90th percentile VORP but by far lowest stat producer. 
@@ -32,6 +35,16 @@ Players 90th quantile in VORP, WS/48, BPM:
 - Tatum
 - Brunson
 - Jimmy
+
+
+Distribution of ppg with age:
+![ppgage](plots/ppg_age.png)
+
+- Peaks at 27-30 (and 34? must be few data samples)
+- 19-26 all similar. Age wont overcome skill (Average player at 21 will probably still be average at 26)
+- Lebron with a single line for age 39 at ~ 25 PPG (nice). 
+
+
 
 
 ## Fantasy related:
@@ -98,6 +111,9 @@ Low usage guys:
 
 ### Relation of Advanced Stats: 
 
+![corradv](plots/corr_adv.png)
+![rfimp](plots/rfimp.png)
+
 - BPM is the most correlated - both from correlation exercise and feature importances of rf model. 
 - VORP follows in second, then pretty steep dropoff
 - Not sure how much this can actually help as these stats essentially model overall goodness of a player. 
@@ -108,10 +124,19 @@ Low usage guys:
 
 
 #### Looking at default stats (PTS, AST, REB, BLK, STL, 3P, FG%, FT%, TO):
+Pairplots:
+![scatmat](plots/scatter_matrix.png)
+
+Histograms:
+![stathist](plots/base_hist.png)
 - Distributions of BLK/AST have longer/lower right tails - can get a leg up here. (eg. Wemby/Hali). 
+
+Correlations for all players:
+![ppgage](plots/basecorr.png)
 - Largest correlations to fpoints come from scoring volume (PTS, FGA, FTA), and AST. 
 
-For only top 25% of per minute fantasy producers. 
+For only top 25% of per minute fantasy producers:
+![ppgage](plots/topcorr.png)
 
 - Fantasy points per game still relies heavily on volume stats and assists.
 - Also had a strong correlation with steals:
