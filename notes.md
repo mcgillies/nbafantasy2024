@@ -121,6 +121,8 @@ Low usage guys:
 #### BPM Vs Fantasy points per minute:
 - Players with inflated BPM: mostly defensive guys. eg Jrue, Derrick White, Caruso
 - Vice versa for deflated BPM: offensive reliant or stat merchants: Trae, Bobby Portis, Brandon Miller. 
+- For ALL players last year. #1 in both Fpoints per minute and BPM is Marqkuis Nowell (short kings unite). Played a total of 2 minutes with 2 PTS, 2 REB, 2 AST and 1 STL. He is SIGNIFICANTLY above the rest of the pack. Circled in black in top left here. 
+![nowell](plots/nowell.png)
 
 
 #### Looking at default stats (PTS, AST, REB, BLK, STL, 3P, FG%, FT%, TO):
